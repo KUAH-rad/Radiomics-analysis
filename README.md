@@ -10,4 +10,4 @@
 - Statistics and Machine Learning Toolbox
 
 ## Acknowledgments
-This project uses LASSO feature selection based on the implementation from the GitHub repository [SoftwareObservatorium/lasso](https://github.com/SoftwareObservatorium/lasso).
+This project uses LASSO feature selection based on the implementation from the GitHub repository [Regression/Multi-variate LASSO regression with CV.ipynb]
