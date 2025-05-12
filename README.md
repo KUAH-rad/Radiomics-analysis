@@ -1,13 +1,12 @@
 # Radiomics-analysis
 
 
-## Contents
-- `Calc_texture.m`: Extract texture-based radiomic features from image-mask pairs.
-- `Calc_GLCM.m`, `Calc_RL.m`, `Calc_First_order_statics.m`, `Calc_Shape.m`: Feature calculation functions.
-
+## Contents 
+Feature extraction and related processes were implemented with reference to the PyRadiomics library (https://pyradiomics.readthedocs.io/), which provides a robust framework for radiomic feature computation from medical images.
 
 ## Requirements
 - Statistics and Machine Learning Toolbox
 
 ## Acknowledgments
-This project uses LASSO feature selection based on the implementation from the GitHub repository [Regression/Multi-variate LASSO regression with CV.ipynb]
+This project uses LASSO feature selection and modeling based on the implementation from the GitHub repository [Regression/Multi-variate LASSO regression with CV.ipynb]
+
